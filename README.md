@@ -2,7 +2,8 @@
 Here is my solution for test tasks
 
 Выполненное задание по SQL лежат в sql_task
-sql_task:
+
+## sql_task:
 
   task_1_data -- Решение первого задания
   
@@ -30,10 +31,9 @@ sql_task:
     
   task_4_data -- Решение четвертого задания
   
-    task_4(key_metric).csv -- таблица содержит stability_index (1-(avg_duration_seconds - median_duration_seconds)/avg_duration_seconds
-) по дням
+    task_4(key_metric).csv -- таблица содержит stability_index (1-(avg_duration_seconds - median_duration_seconds)/avg_duration_seconds) по дням
 
-python_task:
+## python_task:
 
   API_work.ipynb -- полный процесс работы по сбору и проверке монет
   
