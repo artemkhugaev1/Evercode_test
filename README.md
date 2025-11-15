@@ -37,5 +37,5 @@ Here is my solution for test tasks
 
   API_work.ipynb -- полный процесс работы по сбору и проверке монет
   
-  API_task_result.csv -- итоговая таблица для с монетами  из эндпоинта coinmarketcap, которых
+  API_task_result.csv -- итоговая таблица с монетами  из эндпоинта coinmarketcap, которых
                           нет в списке доступных у обменника https://simpleswap.io добавления в базу данных
